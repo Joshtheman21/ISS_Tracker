@@ -1,1 +1,1 @@
-# ISS_Tracker
+# This program is for my people who are into space. I created an ISS Tracker that'll send you a email, when the ISS Satellite is above you. Just go outside and look up. The code is pretty self-explanatory. Put in your email and keep the program running. Yes, you heard right, keep the program running. Send me an email at Joshuaharris_23@yahoo.com if you saw it. I used API requests to get information from ISS Tracker website to make this happen
